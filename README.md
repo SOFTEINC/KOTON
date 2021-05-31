@@ -21,20 +21,21 @@ Network scan Script
 ` $ pip install socket`
 
 ` $ pip install time`
+
 ` $ pip install speedtest `
 
-## futurea >>
+## futures >>
 
 
 - [ping scan](https://en.m.wikipedia.org/wiki/Ping_sweep)
 
 - [port scan](https://en.m.wikipedia.org/wiki/Port_scanner)
 
-	- fast mode >> 
-		in range EX: `1:10`
+ - fast mode >> 
+  in range EX: `1:10`
 	
-	- slow mode >>
-		in range between `1:1000`
+ - slow mode >>
+  in range between `1:1000`
 - Network Speed
 
 
@@ -52,5 +53,4 @@ Network scan Script
 - Mohammed Atef
 
 
-__________________________________________________)
-
+__________________________________________________
